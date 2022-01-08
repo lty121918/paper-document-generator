@@ -1,4 +1,4 @@
-# hello-word
+# 论文文献生成器
 
 ## Project setup
 ```
@@ -16,4 +16,5 @@ npm run build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## **项目跑起来直接在本地打开页面使用即可。**
+
